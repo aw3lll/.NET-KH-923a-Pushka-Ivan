@@ -1,0 +1,6 @@
+C:\Users\nanak\source\repos\Project_Pushka\Core\bin\Debug\Core.dll
+C:\Users\nanak\source\repos\Project_Pushka\Core\bin\Debug\Core.pdb
+C:\Users\nanak\source\repos\Project_Pushka\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\nanak\source\repos\Project_Pushka\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\nanak\source\repos\Project_Pushka\Core\obj\Debug\Core.dll
+C:\Users\nanak\source\repos\Project_Pushka\Core\obj\Debug\Core.pdb
