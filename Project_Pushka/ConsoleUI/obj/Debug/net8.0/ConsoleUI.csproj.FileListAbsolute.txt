@@ -34,3 +34,4 @@ C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI\ob
 C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI\obj\Debug\net8.0\ConsoleUI.pdb
 C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI\obj\Debug\net8.0\ConsoleUI.genruntimeconfig.cache
 C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI\obj\Debug\net8.0\ref\ConsoleUI.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI\obj\Debug\net8.0\ConsoleUI.sourcelink.json

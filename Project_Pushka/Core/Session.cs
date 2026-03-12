@@ -35,7 +35,7 @@ namespace Core
             StartTime = time;
             TicketPrice = price;
         }
-        public string GetInfo()
+        public override string ToString()
         {
             string vip = IsVipHall ? "(VIP зал)" : "(Стандарт)";
             return $"Сеанс у {HallName} {vip} | Початок: {StartTime:dd.MM HH:mm} | Цiна: {TicketPrice} грн | Вiльно мiсць: {AvailableSeats}";

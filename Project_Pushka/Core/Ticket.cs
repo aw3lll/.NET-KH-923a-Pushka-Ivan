@@ -35,7 +35,7 @@ namespace Core
             RowNumber = row;
             SeatNumber = seat;
         }
-        public string GetInfo()
+        public override string ToString()
         {
             string status = IsPaid ? "Оплачено" : "Не оплачено";
             return $"Квиток на iм'я {CustomerName} | Ряд: {RowNumber}, Мiсце: {SeatNumber} | Тип: {TicketType} | Статус: {status}";

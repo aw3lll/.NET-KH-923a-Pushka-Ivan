@@ -34,7 +34,7 @@ namespace Core
             DurationMinutes = duration;
             Rating = rating;
         }
-        public string GetInfo()
+        public override string ToString()
         {
             string type = IsThreeD ? "3D" : "2D";
             return $"Фiльм: \"{Title}\" | Жанр: {Genre} | Тривалiсть: {DurationMinutes} хв | Рейтинг: {Rating} | Формат: {type}";

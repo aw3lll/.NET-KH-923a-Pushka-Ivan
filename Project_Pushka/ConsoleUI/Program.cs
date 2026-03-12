@@ -37,11 +37,11 @@ namespace ConsoleUI
                 IsPaid = true
             };
 
-            Console.WriteLine("Данные об'єктiв класiв");
+            Console.WriteLine("Данi об'єктiв класiв:");
 
-            Console.WriteLine(myMovie.GetInfo());
-            Console.WriteLine(mySession.GetInfo());
-            Console.WriteLine(myTicket.GetInfo());
+            Console.WriteLine(myMovie);
+            Console.WriteLine(mySession);
+            Console.WriteLine(myTicket);
 
             Console.ReadKey();
         }
