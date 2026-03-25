@@ -7,7 +7,7 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            //Задание 1
+            //Лаб1.1
             string version = Environment.OSVersion.ToString();
 
             long ramBytes = GC.GetTotalMemory(true);
@@ -17,14 +17,9 @@ namespace ConsoleUI
             Console.WriteLine($"Версiя ОС: {version}");
             Console.WriteLine($"Використана пам'ять: {ramKb:F2} кб");
 
-            //Задание 2
-
-            Movie myMovie = new Movie("Iнтерстеллар", 169, 8.7)
-            {
-                Genre = "Наукова фантастика",
-                IsThreeD = false
-            };
-
+            //Лаб1.2
+            Movie myMovie = new Movie("Iнтерстеллар", 169, 8.7, "Наукова фантастика", false);
+            
             Session mySession = new Session("IMAX Зал", DateTime.Now.AddHours(3), 250.0)
             {
                 AvailableSeats = 120,
@@ -42,7 +37,6 @@ namespace ConsoleUI
             Console.WriteLine(myMovie);
             Console.WriteLine(mySession);
             Console.WriteLine(myTicket);
-
             Console.ReadKey();
         }
     }

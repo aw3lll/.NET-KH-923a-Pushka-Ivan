@@ -28,11 +28,13 @@ namespace Core
         public bool IsThreeD { get; set; }
 
         public Movie() { }
-        public Movie(string title, int duration, double rating)
+        public Movie(string title, int duration, double rating, string genre, bool isThreeD)
         {
             Title = title;
             DurationMinutes = duration;
             Rating = rating;
+            Genre = genre;
+            IsThreeD = isThreeD;
         }
         public override string ToString()
         {

@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI\\ConsoleUI.csproj",
-      "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI\\ConsoleUI - Lab1.csproj",
+      "projectName": "ConsoleUI - Lab1",
+      "projectPath": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI\\ConsoleUI - Lab1.csproj",
       "packagesPath": "C:\\Users\\nanak\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
