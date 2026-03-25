@@ -76,8 +76,8 @@ namespace ConsoleUI
             }
 
             //Лаб 2.5
-            var longMovies = movies.Where(n => n.DurationMinutes > 120).ToList();
-            Console.WriteLine("\n5. Фільми тривалістю більше 120 хвилин:");
+            var longMovies = movies.Where(n => n.DurationMinutes > 130).ToList();
+            Console.WriteLine("\n5. Фільми тривалістю більше 130 хвилин:");
             longMovies.ForEach(n => Console.WriteLine(n));
 
             //Лаб 2.6
