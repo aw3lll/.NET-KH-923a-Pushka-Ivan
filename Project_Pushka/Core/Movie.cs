@@ -11,6 +11,8 @@ namespace Core
         private string _title;
         private int _duration;
 
+        public HashSet<string> Tags { get; private set; }
+
         public string Title
         {
             get { return _title; }
@@ -27,7 +29,10 @@ namespace Core
         public string Genre { get; set; }
         public bool IsThreeD { get; set; }
 
-        public Movie() { }
+        public Movie() 
+        {
+            Tags = new HashSet<string>();
+        }
         public Movie(string title, int duration, double rating, string genre, bool isThreeD)
         {
             Title = title;
@@ -35,6 +40,12 @@ namespace Core
             Rating = rating;
             Genre = genre;
             IsThreeD = isThreeD;
+            Tags = new HashSet<string>();
+        }
+
+        public bool AddTag(string tag)
+        {
+            return Tags.Add(tag);
         }
         public override string ToString()
         {

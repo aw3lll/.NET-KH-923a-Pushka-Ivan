@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cinema.cs" />
+    <Compile Include="Extensions.cs" />
     <Compile Include="Price.cs" />
     <Compile Include="Ticket.cs" />
     <Compile Include="Session.cs" />
