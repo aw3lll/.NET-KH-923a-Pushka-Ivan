@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0364A9A5-AE13-4558-A230-C5080AFCEACE}|ConsoleUI - Lab3\\ConsoleUI - Lab3.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\consoleui - lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0364A9A5-AE13-4558-A230-C5080AFCEACE}|ConsoleUI - Lab3\\ConsoleUI - Lab3.csproj|solutionrelative:consoleui - lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C9192C3-426F-499E-B012-BE197CC3DBE0}|ConsoleUI - Lab4\\ConsoleUI - Lab4.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\consoleui - lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9192C3-426F-499E-B012-BE197CC3DBE0}|ConsoleUI - Lab4\\ConsoleUI - Lab4.csproj|solutionrelative:consoleui - lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\motionpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\motionpicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\ishow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\ishow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\documentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\documentary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|solutionrelative:core\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0421B1EF-4778-4E16-910D-BB1A9363801B}|Core\\Core.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\core\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,58 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Ticket.cs",
-              "RelativeDocumentMoniker": "Core\\Ticket.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Ticket.cs",
-              "RelativeToolTip": "Core\\Ticket.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Title": "MotionPicture.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\MotionPicture.cs",
+              "RelativeDocumentMoniker": "Core\\MotionPicture.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\MotionPicture.cs",
+              "RelativeToolTip": "Core\\MotionPicture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T17:10:14.15Z",
+              "WhenOpened": "2026-04-24T07:00:52.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Session.cs",
-              "RelativeDocumentMoniker": "Core\\Session.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Session.cs",
-              "RelativeToolTip": "Core\\Session.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Title": "IShow.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\IShow.cs",
+              "RelativeDocumentMoniker": "Core\\IShow.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\IShow.cs",
+              "RelativeToolTip": "Core\\IShow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T17:10:11.682Z",
+              "WhenOpened": "2026-04-24T07:00:50.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Price.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Price.cs",
-              "RelativeDocumentMoniker": "Core\\Price.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Price.cs",
-              "RelativeToolTip": "Core\\Price.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T17:10:06.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Movie.cs",
-              "RelativeDocumentMoniker": "Core\\Movie.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Movie.cs",
-              "RelativeToolTip": "Core\\Movie.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T17:10:05.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Extensions.cs",
               "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Extensions.cs",
               "RelativeDocumentMoniker": "Core\\Extensions.cs",
@@ -102,7 +76,20 @@
               "RelativeToolTip": "Core\\Extensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T17:10:03.769Z",
+              "WhenOpened": "2026-04-24T07:00:48.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Documentary.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Documentary.cs",
+              "RelativeDocumentMoniker": "Core\\Documentary.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Documentary.cs",
+              "RelativeToolTip": "Core\\Documentary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:00:39.346Z",
               "EditorCaption": ""
             },
             {
@@ -113,22 +100,35 @@
               "RelativeDocumentMoniker": "Core\\Cinema.cs",
               "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\Cinema.cs",
               "RelativeToolTip": "Core\\Cinema.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T17:10:00.586Z",
+              "WhenOpened": "2026-04-24T07:00:26.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\CinemaController.cs",
+              "RelativeDocumentMoniker": "Core\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\Core\\CinemaController.cs",
+              "RelativeToolTip": "Core\\CinemaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T06:52:42.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI - Lab3\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleUI - Lab3\\Program.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI - Lab3\\Program.cs",
-              "RelativeToolTip": "ConsoleUI - Lab3\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI - Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI - Lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\ConsoleUI - Lab4\\Program.cs",
+              "RelativeToolTip": "ConsoleUI - Lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T17:09:53.568Z",
+              "WhenOpened": "2026-04-18T20:57:31.133Z",
               "EditorCaption": ""
             }
           ]

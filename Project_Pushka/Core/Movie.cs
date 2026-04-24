@@ -6,51 +6,32 @@ using System.Threading.Tasks;
 
 namespace Core
 {
-    public class Movie
+    public class Movie : MotionPicture
     {
-        private string _title;
-        private int _duration;
-
-        public HashSet<string> Tags { get; private set; }
-
-        public string Title
-        {
-            get { return _title; }
-            set { if (!string.IsNullOrEmpty(value) && value.Length >= 2) _title = value; }
-        }
-
-        public int DurationMinutes
-        {
-            get { return _duration; }
-            set { if (value > 0) _duration = value; }
-        }
-
         public double Rating { get; set; }
         public string Genre { get; set; }
         public bool IsThreeD { get; set; }
 
-        public Movie() 
-        {
-            Tags = new HashSet<string>();
-        }
         public Movie(string title, int duration, double rating, string genre, bool isThreeD)
+            : base(title, duration)
         {
-            Title = title;
-            DurationMinutes = duration;
             Rating = rating;
             Genre = genre;
             IsThreeD = isThreeD;
-            Tags = new HashSet<string>();
         }
 
-        public bool AddTag(string tag)
+        public override string GetContentType() => "Художній фільм";
+
+        public override void ShowBasicInfo()
         {
-            return Tags.Add(tag);
+            base.ShowBasicInfo();
+            Console.WriteLine($"[Додатково] Жанр: {Genre}, Рейтинг: {Rating}");
         }
-        public override string ToString()
+
+        public override void DisplayInfo()
         {
             string type = IsThreeD ? "3D" : "2D";
-            return $"Фiльм: \"{Title}\" | Жанр: {Genre} | Тривалiсть: {DurationMinutes} хв | Рейтинг: {Rating} | Формат: {type}";
+            Console.WriteLine($"Фiльм: \"{Title}\" | Жанр: {Genre} | Формат: {type}");
         }
     }
 }
