@@ -1,0 +1,19 @@
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\bin\Debug\net8.0\ConsoleUI - Lab5.exe
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\bin\Debug\net8.0\ConsoleUI - Lab5.deps.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\bin\Debug\net8.0\ConsoleUI - Lab5.runtimeconfig.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\bin\Debug\net8.0\ConsoleUI - Lab5.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\bin\Debug\net8.0\ConsoleUI - Lab5.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\bin\Debug\net8.0\Core.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\bin\Debug\net8.0\Core.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.csproj.AssemblyReference.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.AssemblyInfoInputs.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.AssemblyInfo.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.csproj.CoreCompileInputs.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.sourcelink.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleU.2246CA4A.Up2Date
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\refint\ConsoleUI - Lab5.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ConsoleUI - Lab5.genruntimeconfig.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\ConsoleUI - Lab5\obj\Debug\net8.0\ref\ConsoleUI - Lab5.dll

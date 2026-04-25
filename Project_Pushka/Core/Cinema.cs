@@ -9,49 +9,51 @@ namespace Core
         public string Name { get; set; }
 
         // Агрегація
-        private List<MotionPicture> _contentList;
-        private List<Session> _sessions;
-        private Dictionary<string, Ticket> _ticketDictionary;
+        public List<MotionPicture> ContentList { get; set; }
+        public List<Session> Sessions { get; set; }
+        public Dictionary<string, Ticket> TicketDictionary { get; set; }
 
-        public Cinema(string name)
+        public Cinema()
+        {
+            ContentList = new List<MotionPicture>();
+            Sessions = new List<Session>();
+            TicketDictionary = new Dictionary<string, Ticket>();
+        }
+        public Cinema(string name) : this()
         {
             Name = name;
-            _contentList = new List<MotionPicture>();
-            _sessions = new List<Session>();
-            _ticketDictionary = new Dictionary<string, Ticket>();
         }
-
         public void AddContent(MotionPicture content)
         {
-            if (content != null) _contentList.Add(content);
+            if (content != null) ContentList.Add(content);
         }
 
         public bool RemoveContent(MotionPicture content)
         {
-            return _contentList.Remove(content);
+            return ContentList.Remove(content);
         }
 
-        public List<MotionPicture> GetAllContent() => _contentList;
+        public List<MotionPicture> GetAllContent() => ContentList;
 
         public void AddSession(Session session)
         {
-            if (session != null) _sessions.Add(session);
+            if (session != null) Sessions.Add(session);
         }
 
         public bool RemoveSession(Session session)
         {
-            return _sessions.Remove(session);
+            return Sessions.Remove(session);
         }
 
-        public List<Session> GetAllSessions() => _sessions;
+        public List<Session> GetAllSessions() => Sessions;
 
         public void AddTicket(Ticket ticket)
         {
             if (ticket != null && !string.IsNullOrEmpty(ticket.TicketId))
             {
-                if (!_ticketDictionary.ContainsKey(ticket.TicketId))
+                if (!TicketDictionary.ContainsKey(ticket.TicketId))
                 {
-                    _ticketDictionary.Add(ticket.TicketId, ticket);
+                    TicketDictionary.Add(ticket.TicketId, ticket);
                 }
             }
         }
@@ -59,49 +61,48 @@ namespace Core
         public bool RemoveTicket(string ticketId)
         {
             if (string.IsNullOrEmpty(ticketId)) return false;
-            return _ticketDictionary.Remove(ticketId);
+            return TicketDictionary.Remove(ticketId);
         }
 
-        public List<Ticket> GetAllTickets() => _ticketDictionary.Values.ToList();
+        public List<Ticket> GetAllTickets() => TicketDictionary.Values.ToList();
 
         public Ticket FindTicketFast(string ticketId)
         {
-            if (_ticketDictionary.TryGetValue(ticketId, out Ticket foundTicket))
+            if (TicketDictionary.TryGetValue(ticketId, out Ticket foundTicket))
                 return foundTicket;
             return null;
         }
 
         public List<Ticket> GetPaidTicketsByType(string type)
         {
-            return _ticketDictionary
+            return TicketDictionary
                 .Where(kvp => kvp.Value.IsPaid && kvp.Value.TicketType == type)
                 .Select(kvp => kvp.Value)
                 .ToList();
         }
-
         public void PrintCinemaInfo()
         {
-            Console.WriteLine($"\n====== КІНОТЕАТР: {Name.ToUpper()} ======");
+            Console.WriteLine($"\n====== КІНОТЕАТР: {Name?.ToUpper()} ======");
 
-            Console.WriteLine($"\n[Контент у прокаті: {_contentList.Count}]");
-            foreach (var c in _contentList)
+            Console.WriteLine($"\n[Контент у прокаті: {ContentList.Count}]");
+            foreach (var c in ContentList)
             {
                 Console.Write(" * ");
                 c.DisplayInfo();
             }
 
-            Console.WriteLine($"\n[Заплановані сеанси: {_sessions.Count}]");
-            foreach (var s in _sessions) Console.WriteLine(" * " + s.ToString());
+            Console.WriteLine($"\n[Заплановані сеанси: {Sessions.Count}]");
+            foreach (var s in Sessions) Console.WriteLine(" * " + s.ToString());
 
-            Console.WriteLine($"\n[Продані квитки: {_ticketDictionary.Count}]");
-            foreach (var t in _ticketDictionary.Values) Console.WriteLine(" * " + t.ToString());
+            Console.WriteLine($"\n[Продані квитки: {TicketDictionary.Count}]");
+            foreach (var t in TicketDictionary.Values) Console.WriteLine(" * " + t.ToString());
 
             Console.WriteLine("=====================================\n");
         }
 
         public IEnumerator<Session> GetEnumerator()
         {
-            foreach (var session in _sessions)
+            foreach (var session in Sessions)
             {
                 yield return session;
             }

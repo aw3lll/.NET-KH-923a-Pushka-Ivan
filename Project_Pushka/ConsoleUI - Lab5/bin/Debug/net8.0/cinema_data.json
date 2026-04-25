@@ -1,0 +1,53 @@
+{
+  "$id": "1",
+  "Name": "Multiplex",
+  "ContentList": {
+    "$id": "2",
+    "$values": [
+      {
+        "$id": "3",
+        "$type": "movie",
+        "Rating": 8.8,
+        "Genre": "Sci-Fi",
+        "IsThreeD": true,
+        "Tags": {
+          "$id": "4",
+          "$values": []
+        },
+        "Title": "Dune",
+        "DurationMinutes": 160
+      }
+    ]
+  },
+  "Sessions": {
+    "$id": "5",
+    "$values": [
+      {
+        "$id": "6",
+        "Film": {
+          "$ref": "3"
+        },
+        "HallName": "IMAX",
+        "StartTime": "2026-04-25T11:57:13.1872865+03:00",
+        "TicketPrice": 250,
+        "AvailableSeats": 100,
+        "IsVipHall": true
+      }
+    ]
+  },
+  "TicketDictionary": {
+    "$id": "7",
+    "T-001": {
+      "$id": "8",
+      "TicketId": "T-001",
+      "CinemaSession": {
+        "$ref": "6"
+      },
+      "CustomerName": "Ivan Pushka",
+      "IsPaid": true,
+      "RowNumber": 10,
+      "SeatNumber": 15,
+      "TicketType": "VIP"
+    }
+  }
+}

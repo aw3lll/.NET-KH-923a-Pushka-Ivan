@@ -3,15 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 namespace Core
 {
+    [JsonDerivedType(typeof(Movie), typeDiscriminator: "movie")]
+    [JsonDerivedType(typeof(Documentary), typeDiscriminator: "doc")]
     public abstract class MotionPicture : IShow
     {
         private string _title;
         private int _duration;
 
-        public HashSet<string> Tags { get; private set; }
+        public HashSet<string> Tags { get; set; }
 
         public string Title
         {
@@ -23,6 +26,10 @@ namespace Core
         {
             get { return _duration; }
             set { if (value > 0) _duration = value; }
+        }
+        public MotionPicture()
+        {
+            Tags = new HashSet<string>();
         }
 
         public MotionPicture(string title, int duration)

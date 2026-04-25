@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CinemaExport>
+  <CinemaName>Multiplex</CinemaName>
+  <VipSessions>
+    <Session Hall="IMAX">
+      <FilmTitle>Dune</FilmTitle>
+      <Price>250</Price>
+    </Session>
+  </VipSessions>
+</CinemaExport>

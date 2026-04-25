@@ -10,6 +10,7 @@ namespace Core
     {
         public string Topic { get; set; }
 
+        public Documentary() { }
         public Documentary(string title, int duration, string topic)
             : base(title, duration)
         {

@@ -12,6 +12,8 @@ namespace Core
         public string Genre { get; set; }
         public bool IsThreeD { get; set; }
 
+        public Movie() { }
+
         public Movie(string title, int duration, double rating, string genre, bool isThreeD)
             : base(title, duration)
         {

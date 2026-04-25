@@ -11,9 +11,9 @@ namespace Core
         private double _price;
         private int _seats;
 
-        public Movie Film { get; set; }
+        public MotionPicture Film { get; set; }
 
-        public string HallName { get; set; }
+        public string HallName { get; set; } 
         public DateTime StartTime { get; set; }
 
         public double TicketPrice
