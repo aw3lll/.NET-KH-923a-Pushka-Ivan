@@ -12,7 +12,7 @@ class Program
         CinemaController controller = new CinemaController("Multiplex");
         controller.PrintSystemStatus();
 
-        // Створення об'єктів ззовні (для агрегації)
+        // Створення об'єктів для агрегації
         Movie dune = new Movie("Dune: Part Two", 166, 8.8, "Sci-Fi", true);
         Documentary nature = new Documentary("Our Planet", 50, "Nature & Animals");
 

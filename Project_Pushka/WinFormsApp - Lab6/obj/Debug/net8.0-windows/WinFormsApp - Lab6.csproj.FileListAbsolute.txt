@@ -1,0 +1,24 @@
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\bin\Debug\net8.0-windows\WinFormsApp - Lab6.exe
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\bin\Debug\net8.0-windows\WinFormsApp - Lab6.deps.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\bin\Debug\net8.0-windows\WinFormsApp - Lab6.runtimeconfig.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\bin\Debug\net8.0-windows\WinFormsApp - Lab6.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\bin\Debug\net8.0-windows\WinFormsApp - Lab6.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\bin\Debug\net8.0-windows\Core.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\bin\Debug\net8.0-windows\Core.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.csproj.AssemblyReference.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp___Lab6.MainForm.resources
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp___Lab6.MovieEditForm.resources
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp___Lab6.SessionEditForm.resources
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp___Lab6.TicketEditForm.resources
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.csproj.GenerateResource.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.AssemblyInfoInputs.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.AssemblyInfo.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.csproj.CoreCompileInputs.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.sourcelink.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinForms.99602AEE.Up2Date
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\refint\WinFormsApp - Lab6.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\WinFormsApp - Lab6.genruntimeconfig.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WinFormsApp - Lab6\obj\Debug\net8.0-windows\ref\WinFormsApp - Lab6.dll

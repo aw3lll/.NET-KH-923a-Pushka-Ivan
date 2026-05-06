@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp___Lab7.SessionEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SessionEditForm" Height="380" Width="320" WindowStartupLocation="CenterOwner">
+    <StackPanel Margin="10">
+        <TextBlock Text="Фільм:"/>
+        <ComboBox x:Name="cmbFilm" DisplayMemberPath="Title" Margin="0,5"/>
+        <TextBlock Text="Зал:"/>
+        <TextBox x:Name="txtHall" Margin="0,5"/>
+        <TextBlock Text="Дата початку:"/>
+        <DatePicker x:Name="dpDate" Margin="0,5"/>
+        <TextBlock Text="Вартість:"/>
+        <TextBox x:Name="txtPrice" Margin="0,5"/>
+        <TextBlock Text="Кількість місць:"/>
+        <TextBox x:Name="txtSeats" Margin="0,5"/>
+        <CheckBox x:Name="chkIsVip" Content="VIP зал?" Margin="0,10"/>
+        <UniformGrid Columns="2">
+            <Button Content="Зберегти" Click="btnSave_Click"/>
+            <Button Content="Скасувати" Click="btnCancel_Click"/>
+        </UniformGrid>
+    </StackPanel>
+</Window>

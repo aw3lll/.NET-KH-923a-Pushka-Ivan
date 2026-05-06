@@ -28,7 +28,7 @@
           "$ref": "3"
         },
         "HallName": "IMAX",
-        "StartTime": "2026-04-25T11:57:13.1872865+03:00",
+        "StartTime": "2026-04-30T17:20:04.8609157+03:00",
         "TicketPrice": 250,
         "AvailableSeats": 100,
         "IsVipHall": true

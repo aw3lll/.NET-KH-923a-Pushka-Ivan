@@ -1,0 +1,89 @@
+{
+  "$id": "1",
+  "Name": "Multiplex",
+  "ContentList": {
+    "$id": "2",
+    "$values": [
+      {
+        "$id": "3",
+        "$type": "movie",
+        "Rating": 9,
+        "Genre": "Action",
+        "IsThreeD": false,
+        "Tags": {
+          "$id": "4",
+          "$values": []
+        },
+        "Title": "Leon",
+        "DurationMinutes": 143
+      },
+      {
+        "$id": "5",
+        "$type": "movie",
+        "Rating": 8,
+        "Genre": "Action",
+        "IsThreeD": false,
+        "Tags": {
+          "$id": "6",
+          "$values": []
+        },
+        "Title": "Top gun",
+        "DurationMinutes": 156
+      }
+    ]
+  },
+  "Sessions": {
+    "$id": "7",
+    "$values": [
+      {
+        "$id": "8",
+        "Film": {
+          "$ref": "3"
+        },
+        "HallName": "3",
+        "StartTime": "2026-05-06T18:39:25.9064064+03:00",
+        "TicketPrice": 250,
+        "AvailableSeats": 90,
+        "IsVipHall": false
+      },
+      {
+        "$id": "9",
+        "Film": {
+          "$ref": "5"
+        },
+        "HallName": "5",
+        "StartTime": "2026-05-06T18:40:59.2260466+03:00",
+        "TicketPrice": 280,
+        "AvailableSeats": 120,
+        "IsVipHall": false
+      }
+    ]
+  },
+  "TicketDictionary": {
+    "$id": "10",
+    "AF08DED0": {
+      "$id": "11",
+      "TicketId": "AF08DED0",
+      "CinemaSession": {
+        "$ref": "8"
+      },
+      "CustomerName": "Oleg",
+      "IsPaid": true,
+      "RowNumber": 7,
+      "SeatNumber": 13,
+      "TicketType": "Standard"
+    },
+    "9C9E93E5": {
+      "$id": "12",
+      "TicketId": "9C9E93E5",
+      "CinemaSession": {
+        "$ref": "9"
+      },
+      "CustomerName": "Andrey",
+      "IsPaid": false,
+      "RowNumber": 8,
+      "SeatNumber": 10,
+      "TicketType": "Standard"
+    }
+  }
+}

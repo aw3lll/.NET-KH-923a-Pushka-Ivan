@@ -40,12 +40,17 @@ namespace Core
             AvailableSeats = seats;
             IsVipHall = isVip;
         }
+        //public override string ToString()
+        //{
+        //    string vip = IsVipHall ? "(VIP зал)" : "(Стандарт)";
+        //    string movieTitle = Film != null ? Film.Title : "Невідомий фільм";
+
+        //    return $"Сеанс: «{movieTitle}» | {HallName} {vip} | Початок: {StartTime:dd.MM HH:mm} | Цiна: {TicketPrice} грн | Вільних місць: {AvailableSeats}";
+        //}
+
         public override string ToString()
         {
-            string vip = IsVipHall ? "(VIP зал)" : "(Стандарт)";
-            string movieTitle = Film != null ? Film.Title : "Невідомий фільм";
-
-            return $"Сеанс: «{movieTitle}» | {HallName} {vip} | Початок: {StartTime:dd.MM HH:mm} | Цiна: {TicketPrice} грн | Вільних місць: {AvailableSeats}";
+            return $"{Film.Title} | {HallName} | {StartTime:HH:mm}";
         }
     }
 }

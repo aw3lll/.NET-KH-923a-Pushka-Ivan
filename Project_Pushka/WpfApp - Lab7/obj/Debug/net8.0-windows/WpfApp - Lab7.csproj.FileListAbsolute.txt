@@ -1,0 +1,30 @@
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\bin\Debug\net8.0-windows\WpfApp - Lab7.exe
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\bin\Debug\net8.0-windows\WpfApp - Lab7.deps.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\bin\Debug\net8.0-windows\WpfApp - Lab7.runtimeconfig.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\bin\Debug\net8.0-windows\WpfApp - Lab7.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\bin\Debug\net8.0-windows\WpfApp - Lab7.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\bin\Debug\net8.0-windows\Core.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\bin\Debug\net8.0-windows\Core.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.csproj.AssemblyReference.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\MovieEditWindow.baml
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\MovieEditWindow.g.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7_MarkupCompile.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.g.resources
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.AssemblyInfoInputs.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.AssemblyInfo.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.csproj.CoreCompileInputs.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.sourcelink.json
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp -.292734BA.Up2Date
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\refint\WpfApp - Lab7.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.pdb
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7.genruntimeconfig.cache
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\ref\WpfApp - Lab7.dll
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\SessionEditWindow.baml
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\TicketEditWindow.baml
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\SessionEditWindow.g.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\TicketEditWindow.g.cs

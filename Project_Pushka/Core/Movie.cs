@@ -35,5 +35,10 @@ namespace Core
             string type = IsThreeD ? "3D" : "2D";
             Console.WriteLine($"Фiльм: \"{Title}\" | Жанр: {Genre} | Формат: {type}");
         }
+
+        public override string ToString()
+        {
+            return Title;
+        }
     }
 }
