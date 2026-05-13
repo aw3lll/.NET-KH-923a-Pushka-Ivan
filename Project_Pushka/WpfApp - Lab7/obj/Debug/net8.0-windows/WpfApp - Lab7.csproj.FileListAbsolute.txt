@@ -28,3 +28,5 @@ C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab
 C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\TicketEditWindow.baml
 C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\SessionEditWindow.g.cs
 C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\TicketEditWindow.g.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\nanak\source\repos\.NET-KH-923a-Pushka-Ivan\Project_Pushka\WpfApp - Lab7\obj\Debug\net8.0-windows\WpfApp - Lab7_MarkupCompile.lref

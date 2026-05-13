@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\ticketeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\ticketeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\ticketeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\ticketeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\sessioneditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\sessioneditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\sessioneditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\sessioneditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\movieeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\movieeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\movieeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\movieeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +19,28 @@
       "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\winformsapp - lab6\\ticketeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|solutionrelative:winformsapp - lab6\\ticketeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1268F69-7D65-4252-82D4-BDC2798B6500}|TestProject - Lab8\\TestProject - Lab8.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\testproject - lab8\\cinematests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1268F69-7D65-4252-82D4-BDC2798B6500}|TestProject - Lab8\\TestProject - Lab8.csproj|solutionrelative:testproject - lab8\\cinematests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\winformsapp - lab6\\ticketeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|solutionrelative:winformsapp - lab6\\ticketeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\sessioneditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\sessioneditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\winformsapp - lab6\\sessioneditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|solutionrelative:winformsapp - lab6\\sessioneditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\ticketeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\ticketeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\winformsapp - lab6\\sessioneditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|solutionrelative:winformsapp - lab6\\sessioneditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\ticketeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\ticketeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\winformsapp - lab6\\movieeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|solutionrelative:winformsapp - lab6\\movieeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\sessioneditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\sessioneditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\winformsapp - lab6\\movieeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|solutionrelative:winformsapp - lab6\\movieeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\winformsapp - lab6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|solutionrelative:winformsapp - lab6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\winformsapp - lab6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E2D4B0F-7438-4D46-98F8-EF420A86ADD2}|WinFormsApp - Lab6\\WinFormsApp - Lab6.csproj|solutionrelative:winformsapp - lab6\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|c:\\users\\nanak\\source\\repos\\.net-kh-923a-pushka-ivan\\project_pushka\\wpfapp - lab7\\movieeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4744495-D1EB-4003-A3B5-585DD2250957}|WpfApp - Lab7\\WpfApp - Lab7.csproj|solutionrelative:wpfapp - lab7\\movieeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,98 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TicketEditWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\TicketEditWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp - Lab7\\TicketEditWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\TicketEditWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp - Lab7\\TicketEditWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:51:26.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TicketEditWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\TicketEditWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp - Lab7\\TicketEditWindow.xaml",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\TicketEditWindow.xaml",
-              "RelativeToolTip": "WpfApp - Lab7\\TicketEditWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-06T18:51:23.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SessionEditWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\SessionEditWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp - Lab7\\SessionEditWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\SessionEditWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp - Lab7\\SessionEditWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:51:19.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SessionEditWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\SessionEditWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp - Lab7\\SessionEditWindow.xaml",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\SessionEditWindow.xaml",
-              "RelativeToolTip": "WpfApp - Lab7\\SessionEditWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-06T18:51:16.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MovieEditWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MovieEditWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp - Lab7\\MovieEditWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MovieEditWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp - Lab7\\MovieEditWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:51:14.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovieEditWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MovieEditWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp - Lab7\\MovieEditWindow.xaml",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MovieEditWindow.xaml",
-              "RelativeToolTip": "WpfApp - Lab7\\MovieEditWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-06T18:51:11.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp - Lab7\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MainWindow.xaml",
-              "RelativeToolTip": "WpfApp - Lab7\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-06T18:50:59.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp - Lab7\\MainWindow.xaml.cs",
@@ -173,108 +62,118 @@
               "RelativeToolTip": "WpfApp - Lab7\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:46:42.644Z",
+              "WhenOpened": "2026-05-13T13:09:35.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CinemaTests.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\TestProject - Lab8\\CinemaTests.cs",
+              "RelativeDocumentMoniker": "TestProject - Lab8\\CinemaTests.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\TestProject - Lab8\\CinemaTests.cs",
+              "RelativeToolTip": "TestProject - Lab8\\CinemaTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T12:50:39.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp - Lab7\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MainViewModel.cs",
+              "RelativeToolTip": "WpfApp - Lab7\\MainViewModel.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T12:44:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp - Lab7\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp - Lab7\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T12:43:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\TicketEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp - Lab7\\TicketEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\TicketEditWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp - Lab7\\TicketEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T12:42:17.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\TicketEditWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp - Lab7\\TicketEditWindow.xaml",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\TicketEditWindow.xaml",
+              "RelativeToolTip": "WpfApp - Lab7\\TicketEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T12:42:13.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\SessionEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp - Lab7\\SessionEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\SessionEditWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp - Lab7\\SessionEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T12:42:09.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp - Lab7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp - Lab7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-07T11:38:48.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TicketEditForm.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\TicketEditForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp - Lab6\\TicketEditForm.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\TicketEditForm.cs",
-              "RelativeToolTip": "WinFormsApp - Lab6\\TicketEditForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:38:25.06Z",
-              "EditorCaption": ""
+              "Title": "SessionEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\SessionEditWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp - Lab7\\SessionEditWindow.xaml",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\SessionEditWindow.xaml",
+              "RelativeToolTip": "WpfApp - Lab7\\SessionEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-13T12:42:03.096Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "TicketEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\TicketEditForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp - Lab6\\TicketEditForm.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\TicketEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsApp - Lab6\\TicketEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "MovieEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MovieEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp - Lab7\\MovieEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WpfApp - Lab7\\MovieEditWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp - Lab7\\MovieEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:38:23.091Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SessionEditForm.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\SessionEditForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp - Lab6\\SessionEditForm.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\SessionEditForm.cs",
-              "RelativeToolTip": "WinFormsApp - Lab6\\SessionEditForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:38:06.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SessionEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\SessionEditForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp - Lab6\\SessionEditForm.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\SessionEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsApp - Lab6\\SessionEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:38:05.357Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MovieEditForm.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\MovieEditForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp - Lab6\\MovieEditForm.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\MovieEditForm.cs",
-              "RelativeToolTip": "WinFormsApp - Lab6\\MovieEditForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:37:46.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MovieEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\MovieEditForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp - Lab6\\MovieEditForm.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\MovieEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsApp - Lab6\\MovieEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:37:44.436Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\MainForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp - Lab6\\MainForm.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\MainForm.cs",
-              "RelativeToolTip": "WinFormsApp - Lab6\\MainForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwPcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:31:33.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\MainForm.cs",
-              "RelativeDocumentMoniker": "WinFormsApp - Lab6\\MainForm.cs",
-              "ToolTip": "C:\\Users\\nanak\\source\\repos\\.NET-KH-923a-Pushka-Ivan\\Project_Pushka\\WinFormsApp - Lab6\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsApp - Lab6\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:31:24.627Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-05-13T12:41:59.169Z"
             }
           ]
         }

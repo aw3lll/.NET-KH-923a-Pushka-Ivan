@@ -100,7 +100,7 @@ namespace WpfApp___Lab7 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfApp - Lab7;component/sessioneditwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfApp - Lab7;V1.0.0.0;component/sessioneditwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\SessionEditWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

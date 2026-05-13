@@ -1,15 +1,12 @@
 ﻿<Window x:Class="WpfApp___Lab7.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Система кінотеатру" Height="600" Width="1000" WindowStartupLocation="CenterScreen">
+        xmlns:local="clr-namespace:WpfApp___Lab7"
+        Title="Система кінотеатру MVVM" Height="600" Width="1000" WindowStartupLocation="CenterScreen">
 
-    <Window.Resources>
-        <Style TargetType="Button">
-            <Setter Property="Margin" Value="0,5"/>
-            <Setter Property="Padding" Value="10,5"/>
-            <Setter Property="FontSize" Value="14"/>
-        </Style>
-    </Window.Resources>
+    <Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>
 
     <Grid>
         <Grid.ColumnDefinitions>
@@ -17,33 +14,44 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Border Grid.Column="0" Background="#F3F3F3" Padding="10">
+        <Border Grid.Column="0" Background="#F0F0F0" Padding="10">
             <StackPanel>
-                <Button Content="Додати фільм" Click="btnAddMovie_Click"/>
-                <Button Content="Створити сеанс" Click="btnAddSession_Click"/>
-                <Button Content="Оформити квиток" Click="btnAddTicket_Click"/>
+                <Button Content="Додати фільм" Command="{Binding AddMovieCommand}" Margin="0,5"/>
+                <Button Content="Створити сеанс" Command="{Binding AddSessionCommand}" Margin="0,5"/>
+                <Button Content="Оформити квиток" Command="{Binding AddTicketCommand}" Margin="0,5"/>
                 <Separator Margin="0,10"/>
-                <Button Content="Видалити обране" Background="#FFE1E1" Click="btnDelete_Click"/>
+
+                <Button Content="Видалити обране" Background="#FFE1E1" Margin="0,5"
+                        Command="{Binding DeleteCommand}"
+                        CommandParameter="{Binding SelectedItem, ElementName=ActiveDataGrid}"/>
+
                 <Separator Margin="0,10"/>
-                <Button Content="Завантажити JSON" Click="btnLoad_Click"/>
-                <Button Content="Зберегти у JSON" Click="btnSave_Click"/>
+                <Button Content="Завантажити JSON" Command="{Binding LoadCommand}" Margin="0,5"/>
+                <Button Content="Зберегти у JSON" Command="{Binding SaveCommand}" Margin="0,5"/>
             </StackPanel>
         </Border>
 
-        <TabControl x:Name="MainTabs" Grid.Column="1">
+        <TabControl Grid.Column="1">
             <TabItem Header="Фільми">
-                <DataGrid x:Name="dgMovies" AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False">
+                <DataGrid x:Name="dgMovies" ItemsSource="{Binding Movies}" AutoGenerateColumns="False" IsReadOnly="True">
+                    <DataGrid.Tag>
+                        <Binding ElementName="dgMovies" Path="SelectedItem"/>
+                    </DataGrid.Tag>
                     <DataGrid.Columns>
                         <DataGridTextColumn Header="Назва" Binding="{Binding Title}" Width="*"/>
-                        <DataGridTextColumn Header="Тривалість (хв)" Binding="{Binding DurationMinutes}" Width="120"/>
+                        <DataGridTextColumn Header="Тривалість" Binding="{Binding DurationMinutes}" Width="100"/>
                         <DataGridTextColumn Header="Жанр" Binding="{Binding Genre}" Width="100"/>
                         <DataGridTextColumn Header="Рейтинг" Binding="{Binding Rating}" Width="80"/>
                         <DataGridCheckBoxColumn Header="3D" Binding="{Binding IsThreeD}" Width="50"/>
                     </DataGrid.Columns>
                 </DataGrid>
             </TabItem>
+
             <TabItem Header="Сеанси">
-                <DataGrid x:Name="dgSessions" AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False">
+                <DataGrid x:Name="dgSessions" ItemsSource="{Binding Sessions}" AutoGenerateColumns="False" IsReadOnly="True">
+                    <DataGrid.Tag>
+                        <Binding ElementName="dgSessions" Path="SelectedItem"/>
+                    </DataGrid.Tag>
                     <DataGrid.Columns>
                         <DataGridTextColumn Header="Фільм" Binding="{Binding Film.Title}" Width="*"/>
                         <DataGridTextColumn Header="Зал" Binding="{Binding HallName}" Width="80"/>
@@ -53,15 +61,18 @@
                     </DataGrid.Columns>
                 </DataGrid>
             </TabItem>
+
             <TabItem Header="Квитки">
-                <DataGrid x:Name="dgTickets" AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False">
+                <DataGrid x:Name="dgTickets" ItemsSource="{Binding Tickets}" AutoGenerateColumns="False" IsReadOnly="True">
+                    <DataGrid.Tag>
+                        <Binding ElementName="dgTickets" Path="SelectedItem"/>
+                    </DataGrid.Tag>
                     <DataGrid.Columns>
-                        <DataGridTextColumn Header="ID Квитка" Binding="{Binding TicketId}" Width="100"/>
+                        <DataGridTextColumn Header="ID" Binding="{Binding TicketId}" Width="80"/>
                         <DataGridTextColumn Header="Покупець" Binding="{Binding CustomerName}" Width="*"/>
                         <DataGridTextColumn Header="Сеанс" Binding="{Binding CinemaSession.Film.Title}" Width="*"/>
                         <DataGridTextColumn Header="Ряд" Binding="{Binding RowNumber}" Width="60"/>
                         <DataGridTextColumn Header="Місце" Binding="{Binding SeatNumber}" Width="60"/>
-                        <DataGridCheckBoxColumn Header="Оплачено" Binding="{Binding IsPaid}" Width="80"/>
                     </DataGrid.Columns>
                 </DataGrid>
             </TabItem>

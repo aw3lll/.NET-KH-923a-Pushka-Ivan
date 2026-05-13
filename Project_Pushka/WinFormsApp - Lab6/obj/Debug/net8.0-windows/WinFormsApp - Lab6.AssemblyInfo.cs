@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsApp - Lab6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a2e31cf48d9d6c6a61c2c692269dcb39dd8e535")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3ece08c89f9ac484d58404aaa13b15d24a8373")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsApp - Lab6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsApp - Lab6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
